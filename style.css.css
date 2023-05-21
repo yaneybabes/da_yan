@@ -1,0 +1,15 @@
+body
+{
+	background-repeat: no repeat;
+	background-image:url ("sunny.jpg");
+	background-size:cover;
+}
+ul
+{
+	align: right;
+}
+ul li
+{
+	background-color: violet;
+	display:inline-block;
+	padding:10px;
